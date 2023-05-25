@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683566357 source:c:\users\pc\desktop\matrix-dets\src\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1683640613 source:c:\users\pc\desktop\matrix-dets2\src\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<stdlib.h>
+
